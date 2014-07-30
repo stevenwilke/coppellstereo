@@ -7,7 +7,7 @@ coppellstereo
 ---
 ###A Wilke Bros. Collaboration
 ---
-`git clone git@github.com:stevenwilke/coppellstereo.git`
+`git is confusing`
 ---
 ####This is me making changes to this document
 ---
@@ -16,3 +16,4 @@ coppellstereo
 there is a line above this
 ---
 ##this is a headline
+>Looks like this is a blockquote
