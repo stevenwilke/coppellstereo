@@ -7,6 +7,8 @@ coppellstereo
 ---
 ###A Wilke Bros. Collaboration
 ---
-`git clone git@github.com:stevenwilke/coppellstereo.git`
+`git is confusing`
 ---
 ####This is me making changes to this document
+---
+>I think this is a list item.
