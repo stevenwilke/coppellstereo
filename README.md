@@ -5,7 +5,7 @@ coppellstereo
 ---
 ##This is a new project
 ---
-###A Wilke Bros. Collaboration
+###A Wilke Brothers Collaboration
 ---
 `git is confusing`
 ---
