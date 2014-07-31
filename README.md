@@ -1,26 +1,14 @@
-coppellstereo
-=============
+##Setup
+This project now uses SCSS via [Compass](http://compass-style.org).
+To get started you will need to:
+* Make sure you have [Ruby](https://www.ruby-lang.org/en/installation/) installed
+* Set up the Ruby environtment: `gem update --system` and `gem install compass`
+* Install Compass `gem install compass`
 
-#coppellstereo
----
-##This is a new project
----
-###A Wilke Brothers Collaboration
----
-`git is confusing`
----
-####This is me making changes to this document
----
-`this is outlined like a button`
----
-there is a line above this
----
-##this is a headline
->Looks like this is a blockquote
-
-http://www.coppellstereo.com
-
-
+##Running Compass
+* Navigate tot he project folder and run `compass watch`
+* Edit CSS vis SCSS within `sass` folder
+* When you save, the Compass Watcher will see the changes and compile the CSS for you
 
 
 ----
