@@ -1,3 +1,48 @@
-body {
-	background: #f0f;
+
+
+/*
+** From Coppellstereo.com
+*/
+
+/* Menu */
+#menu {
+	width: 740px;
+	height: 60px;
+	margin: 0 auto;
+	background: url(images/tip9.jpg);
+
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	li {
+		//display: inline;  //<-- double // comments do not appear in compiled CSS, whereas /* comments */ do
+	}
+
+	a {
+		display: block;
+		float: left;
+		padding: 20px 20px 0 20px;
+		text-decoration: none;
+		font-size: 136%;
+		color: #FFFFFF;
+
+		&:hover {
+			text-decoration: none;
+			background-color: #111111;
+			height: 40px;
+			border-bottom: 2px solid #ff0000;
+		}
+
+		&.current:link {
+			text-decoration: underline;
+
+			&:hover {
+				text-decoration: none;
+				border-bottom: 2px solid #ff0000;
+			}
+		}
+	}
 }
